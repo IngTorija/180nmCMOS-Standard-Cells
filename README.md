@@ -1,2 +1,2 @@
 # 180nmCMOS-Starndard-Cells
-Design of AND, NOT &amp; OR gates with operation frequency at 1GHz and its simulation in LTSpice. 
+Design of NAND, NOT &amp; NOR gates in 180nm CMOS technology at 1GHz, and its simulation in LTSpice. 
